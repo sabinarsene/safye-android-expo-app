@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39078577583",
+    "project_id": "rnapp-decfb",
+    "storage_bucket": "rnapp-decfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39078577583:android:283accbee557ae46a25b5a",
+        "android_client_info": {
+          "package_name": "notif.raspberry.rn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPDQKmi54lUWsISe1uOiei5CRBqIpFzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
